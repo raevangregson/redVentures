@@ -1,8 +1,8 @@
 ## Available Scripts
 
-TO run project<br>
  ###`yarn install`
-then run both commands in two terminal windows in the project directory:
+
+then run both of the following commands in two terminal windows in the project directory:
 
 ### `npm start`
 

@@ -1,5 +1,6 @@
 import React, { Component } from 'react';
 import { PageHeader } from 'react-bootstrap';
+import Table from './components/table.jsx'
 import './scss/mainContent.scss';
 
 class MainContent extends Component {
@@ -9,11 +10,7 @@ class MainContent extends Component {
       <PageHeader>
       <small >Browse Rates...</small>
     </PageHeader>
- <div className='mainContent'>
-      <div className='content'>
-
-      </div>
- </div>
+     <Table/>  
  </div>
     );
   }

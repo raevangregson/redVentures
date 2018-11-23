@@ -1,0 +1,53 @@
+{
+  "banks": [
+    {
+      "clientId": 1 ,
+      "id": 1 ,
+      "name" : "Demo Bank 1" ,
+      "description": "$10 to open, no monthly fees",
+      "rate": 0.5
+      },
+      {
+      "clientId": 2 ,
+      "id": 2 ,
+      "name": "Demo Bank 2" ,
+      "description": "$100 to open, minimum balance required to avoid fees",
+      "rate": 0.8
+      },
+      {
+        "clientId": 3 ,
+        "id": 3 ,
+        "name": "Demo Bank 3" ,
+        "description": "$50 to open, minimum balance required to avoid fees",
+        "rate": 0.2
+        },
+        {
+          "clientId": 4 ,
+          "id": 4 ,
+          "name": "Demo Bank 4" ,
+          "description": "$100 to open, minimum balance required to avoid fees",
+          "rate": 0.1
+          },
+          {
+            "clientId": 5 ,
+            "id":  5,
+            "name": "Demo Bank 5" ,
+            "description": "$100 to open, minimum balance required to avoid fees",
+            "rate": 1.0
+            },
+            {
+              "clientId": 6,
+              "id": 6 ,
+              "name": "Demo Bank 6" ,
+              "description": "$100 to open, minimum balance required to avoid fees",
+              "rate": 0.9
+              },
+              {
+                "clientId": 7 ,
+                "id": 7 ,
+                "name": "Demo Bank 7" ,
+                "description": "$100 to open, minimum balance required to avoid fees",
+                "rate": 0.2
+                }
+  ]
+}

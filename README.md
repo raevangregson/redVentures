@@ -1,6 +1,6 @@
 ## Available Scripts
 
- ###`yarn install`
+ ### `yarn install`
 
 then run both of the following commands in two terminal windows in the project directory:
 
